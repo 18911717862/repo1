@@ -7,3 +7,4 @@ bbbbbbbbbb
 ----------------------------------
 下面是berg自己写的代码：
 berg is here.
+This is a javaCode.
